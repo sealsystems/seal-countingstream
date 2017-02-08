@@ -1,5 +1,8 @@
 # seal-countingstream
 
+[![CircleCI](https://circleci.com/gh/sealsystems/seal-countingstream.svg?style=svg)](https://circleci.com/gh/sealsystems/seal-countingstream)
+[![AppVeyor](https://ci.appveyor.com/api/projects/status/abqaq6i5benu5p00?svg=true)](https://ci.appveyor.com/project/Plossys/seal-countingstream)
+
 seal-countingstream counts the stream length in bytes.
 
 ## Installation
