@@ -24,10 +24,10 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "assertthat": "0.8.3",
+    "assertthat": "1.0.0",
     "eslint-config-seal": "0.0.9",
-    "roboter": "0.14.4",
-    "roboter-server": "0.14.4"
+    "roboter": "0.16.0",
+    "roboter-server": "0.16.0"
   },
   "publishConfig": {
     "access": "public"
