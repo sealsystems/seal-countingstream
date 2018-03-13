@@ -1,22 +1,22 @@
-# seal-countingstream
+# @sealsystems/countingstream
 
-[![CircleCI](https://circleci.com/gh/sealsystems/seal-countingstream.svg?style=svg)](https://circleci.com/gh/sealsystems/seal-countingstream)
-[![AppVeyor](https://ci.appveyor.com/api/projects/status/abqaq6i5benu5p00?svg=true)](https://ci.appveyor.com/project/Plossys/seal-countingstream)
+[![CircleCI](https://circleci.com/gh/sealsystems/node-countingstream.svg?style=svg)](https://circleci.com/gh/sealsystems/node-countingstream)
+[![AppVeyor](https://ci.appveyor.com/api/projects/status/b87tp7eg07rn4jpv?svg=true)](https://ci.appveyor.com/project/Plossys/node-countingstream)
 
-seal-countingstream counts the stream length in bytes.
+@sealsystems/countingstream counts the stream length in bytes.
 
 ## Installation
 
 ```bash
-$ npm install seal-countingstream
+$ npm install @sealsystems/countingstream
 ```
 
 ## Quick start
 
-First you need to add a reference to seal-countingstream within your application.
+First you need to add a reference to @sealsystems/countingstream within your application.
 
 ```javascript
-const CountingStream = require('seal-countingstream');
+const CountingStream = require('@sealsystems/countingstream');
 ```
 
 Then, call the constructor function.
