@@ -1,3 +1,14 @@
+## 1.1.1 (2018-09-09)
+
+### Bug Fixes
+
+
+#### Include all needed files in Node.js module ([c1def81](https://github.com/sealsystems/node-countingstream/commit/c1def81))
+
+
+
+---
+
 ## 1.1.0 (2018-09-08)
 
 ### Features
