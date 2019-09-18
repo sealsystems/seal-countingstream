@@ -39,8 +39,9 @@ suite('CountingStream', () => {
   });
 
   test('count data', (done) => {
-    const writeBuf = new Buffer('1234567890');
+    const writeBuf = Buffer.from('1234567890');
 
+    // eslint-disable-next-line no-empty-function
     countingStream.on('data', () => {});
 
     for (let i = 0; i < 12345; i++) {
@@ -51,8 +52,9 @@ suite('CountingStream', () => {
   });
 
   test('reset count to default value', (done) => {
-    const writeBuf = new Buffer('1234567890');
+    const writeBuf = Buffer.from('1234567890');
 
+    // eslint-disable-next-line no-empty-function
     countingStream.on('data', () => {});
 
     for (let i = 0; i < 5; i++) {
@@ -65,8 +67,9 @@ suite('CountingStream', () => {
   });
 
   test('reset count to given value', (done) => {
-    const writeBuf = new Buffer('1234567890');
+    const writeBuf = Buffer.from('1234567890');
 
+    // eslint-disable-next-line no-empty-function
     countingStream.on('data', () => {});
 
     for (let i = 0; i < 3; i++) {
