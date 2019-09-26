@@ -1,3 +1,33 @@
+## 1.2.0 (2019-09-26)
+
+### Chores
+
+
+#### rename .eslintrc (deprecated) -> .eslintrc.json ([32dae67](https://github.com/sealsystems/node-countingstream/commit/32dae67))
+
+### Features
+
+
+#### PLS-431 ([f5119ee](https://github.com/sealsystems/node-countingstream/commit/f5119ee))
+
+- Removed roboter
+ - Installed latest dev stack
+ - Updated scripts
+ - Updated GitHub Pull Request template
+ - Updated CircleCI config
+ - Updated appveyor config
+ - Updated dependencies
+ - Updated eslintrc
+ - Added dependabot config
+ - Added `package-lock.json` to git
+ - Fixed linting
+#### PLS-431 - Fixed release config ([7265abe](https://github.com/sealsystems/node-countingstream/commit/7265abe))
+
+A small additional change: I fixed the configuration of semantic-release.
+
+
+---
+
 ## 1.1.2 (2018-11-20)
 
 
