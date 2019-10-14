@@ -1,3 +1,22 @@
+## 1.3.0 (2019-10-14)
+
+### Features
+
+
+#### PLS-431, [PLS-431](https://jira.sealsystems.de/jira/browse/PLS-431) ([942a804](https://github.com/sealsystems/node-countingstream/commit/942a804))
+
+- Removed roboter
+ - Updated ESLint-config
+ - Updated GitHub Pull Request template
+ - Updated appveyor config
+ - Updated CircleCI config
+ - Added dependabot
+ - Added `package-lock.json` to git
+ - Used `seal-node:oss-module-update`
+
+
+---
+
 ## 1.2.0 (2019-09-26)
 
 ### Chores
