@@ -9,7 +9,7 @@ const CountingStream = require('../lib/CountingStream');
 suite('CountingStream', () => {
   let countingStream;
 
-  setup(() => {
+  setup(async () => {
     countingStream = new CountingStream();
   });
 
