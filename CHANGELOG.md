@@ -1,3 +1,14 @@
+## 1.3.1 (2020-03-09)
+
+### Chores
+
+
+#### YOED ([a9e2be2](https://github.com/sealsystems/node-countingstream/commit/a9e2be2))
+
+
+
+---
+
 ## 1.3.0 (2019-10-14)
 
 ### Features
