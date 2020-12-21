@@ -1,3 +1,10 @@
+## 1.3.2 (2020-12-21)
+
+### Chores
+
+
+Trigger release ([93c044c](https://github.com/sealsystems/node-countingstream/commit/93c044c))
+
 ## 1.3.1 (2020-03-09)
 
 ### Chores
