@@ -1,3 +1,12 @@
+## 1.3.3 (2020-12-26)
+
+### Chores
+
+
+Update build configuration ([f001026](https://github.com/sealsystems/node-countingstream/commit/f001026))
+
+Update build configuration ([bec5eb6](https://github.com/sealsystems/node-countingstream/commit/bec5eb6))
+
 ## 1.3.2 (2020-12-21)
 
 ### Chores
