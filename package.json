@@ -1,6 +1,6 @@
 {
   "name": "@sealsystems/countingstream",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "description": "@sealsystems/countingstream counts the stream length in bytes.",
   "author": {
     "name": "SEAL Systems AG",

@@ -1,3 +1,10 @@
+## 1.3.4 (2021-01-16)
+
+### Chores
+
+
+Update build config ([4a65713](https://github.com/sealsystems/node-countingstream/commit/4a65713))
+
 ## 1.3.3 (2020-12-26)
 
 ### Chores
